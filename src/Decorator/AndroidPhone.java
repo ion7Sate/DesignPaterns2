@@ -1,6 +1,7 @@
 package Decorator;
 
 public class AndroidPhone extends SmartPhone{
+
     public AndroidPhone(Phone phone) {
         super(phone);
     }
